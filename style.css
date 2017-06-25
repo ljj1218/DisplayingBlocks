@@ -1,0 +1,62 @@
+*{
+    margin:0px;
+}
+
+#wrapper{
+    width: 600px;
+    background-color: #d3d1ae;
+    padding: 15px;
+}
+
+#header{
+    width: 80%;
+    margin: 15px auto;
+}
+
+#header img{
+    width: 21%;
+    height: 56px;
+    display: inline-block;
+    background-color: white;
+}
+
+#header h1{
+    display: inline;
+}
+
+
+.lineodd{
+    display:inline-block;
+    vertical-align: top;
+    width: 19%;
+}
+
+#section{
+    margin: 10px auto;
+}
+
+.lineodd img{
+    width: 90px;
+    height: 90px;
+    border: 10px solid #91b3eb;
+}
+
+.lineeven{
+    display: inline-block;
+    vertical-align: top;
+    width: 19%;
+}
+
+.lineeven img{
+    width: 90px;
+    height: 90px;
+    border: 10px solid #d76870;
+    background-color: #d76870;
+}
+
+.border{
+    width: 110px;
+    height: 110px;
+    border: 3px solid black;
+    margin-bottom: 2px;
+}
